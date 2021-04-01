@@ -1,0 +1,16 @@
+256      !No. of points in each dimension
+5.0e9    !Time of interaction
+1.0E4    !Timestep
+1.0e15   !Width of wavefunction 1 in x
+1.9e-9   !p0 (Pump saturation parameter)
+-100.0   !Delta (Delta)
+2.53e9   !Gamma/omega_r (gambar)
+20.0     !Optical density (b0)
+5.0      !Critical wavenumber
+0.99     !Mirror reflectivity
+0.0      !Scattering length parameter (gbar)
+101      !No. of outputs
+.T.      !FFT output flag  
+5.0      !p1 (initial momentum BEC1)
+0.8e15   !Width of wavefunction 2 in x
+-5.0     !p2 (initial momentum BEC2)
